@@ -49,3 +49,16 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+
+# GitHub Stats Visualizations : Transparent
+> Generate visualizations of GitHub user and repository statistics using GitHub
+Actions.
+
+<a href="https://github.com/bliss1454/KDT-WEB-9.git/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+> NOTE: This repository is my extension of the repo [bliss1454/KDT-WEB-9.git/github-stats](https://github.com/bliss1454/KDT-WEB-9.git/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
